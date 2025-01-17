@@ -61,22 +61,3 @@
           <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="">
           <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="">
 </div>
-
----
-
-<div align="center">
-    <a href="https://wakatime.com"><img src="https://wakatime.com"><img src="https://wakatime.com/share/@6771a9aa-86fe-4472-8959-a3fa3fa23c27/4887934d-5933-4737-8440-b44616c1ac9d.png" /></a>
-</div>
-
----
-
-<div align="center">
-    <a href="https://github.com/yehia-official">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MustafaAhmed313&theme=nord_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MustafaAhmed313&theme=nord_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MustafaAhmed313&theme=nord_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MustafaAhmed313&theme=nord_dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MustafaAhmed313&theme=nord_dark" height="180em" />
-</div>
-
----
