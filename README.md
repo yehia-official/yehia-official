@@ -11,10 +11,6 @@
 <img src="http://sixfootgiraffe.com/wp-content/uploads/2014/05/2014_56.gif" width="120" height="120">
 </div><br>
 
-<div align="center">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MustafaAhmed313?logo=github">
-    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/MustafaAhmed313?logo=github">
-</div>
 
 <h3>
  <img src ="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=25px> &nbsp;About me :
