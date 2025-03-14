@@ -30,24 +30,6 @@
 
 ---
 
-<h3>📫 &nbsp;How to reach me :</h3>
-<div align="center">
-        <a href="mailto:mostafa3132004@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-        </a>
-        <a href="https://www.facebook.com/profile.php?id=100009770403789">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-        </a>
-        <a href="https://www.linkedin.com/in/mustafa-ahmed-6489501a6/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit">
-        </a>
-        <a href="https://twitter.com/Mustafa2127017">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-        </a>
-</div>
-    
----
-
 <h3>🛠 &nbsp;Tools and Languages :</h3>
 <div align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="">
