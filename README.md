@@ -19,10 +19,9 @@
 <div>
     <p>
         Hi, I'm yehia mohamed.<br> 
-        a passionate back-end developer and <br>currently learning more about advanced programming concepts.<br>         
+        a passionate Front-end developer and <br>currently learning more about advanced programming concepts.<br>         
         Recently, i am writing some documentations about mern stack and i can help in content writing about programming.
     </p>
-    <li>🎓 Computer Science student at faculty of science.</li>
     <li>✨ Interested in front-end programming.</li>
     <li>🌱 currently learning full Stack.</li>
     <li>♾️ aiming to become a full stack Engineer.</li>
