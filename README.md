@@ -48,26 +48,6 @@
     <summary>💻 &nbsp;Top Projects</summary>
     <br>
 
-    <div align="center">
-        <table>
-            <tr>
-                <th>Project Name</th>
-                <th>Short Summary</th>
-                <th>Framework</th>
-            </tr>
-            <tr>
-                <td>📦 <a href="https://github.com/Yehia/my-project">My Project</a></td>
-                <td>My personal website built using React.</td>
-                <td><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" /></td>
-            </tr>
-            <tr>
-                <td>📚 <a href="https://github.com/Yehia/portfolio">Portfolio</a></td>
-                <td>Portfolio website showcasing web development skills.</td>
-                <td><img src="https://img.shields.io/badge/HTML-5?style=flat&logo=html5&logoColor=white" /></td>
-            </tr>
-        </table>
-    </div>
-
 </details>
 
 <details>
@@ -91,9 +71,6 @@
     <summary>📊 &nbsp;GitHub & Wakatime Status</summary>
     <br>
 
-    <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=Yehia&show_icons=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" />
-        <img src="https://streak-stats.demolab.com/?user=Yehia&theme=Algolia&hide_border=true" />
-    </div>
+    
 
 </details>
