@@ -63,6 +63,11 @@
 <details>
     <summary>📊 &nbsp;GitHub & Wakatime Status</summary>
     <br>
+<div align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@6771a9aa-86fe-4472-8959-a3fa3fa23c27/6d7c21bd-4772-4fb2-9b58-80c6e10e20cd.svg" alt="Wakatime Stats" />
+  </a>
+</div>
 
     
 
