@@ -19,7 +19,7 @@
         I specialize in HTML, CSS, JavaScript, and constantly improving my skills in web development and design.
     </p>
     <ul>
-        <li>🎓 Computer Science student at Faculty of Science.</li>
+        <li>🎓 Information Technology Institute</li>
         <li>✨ Focused on mastering Front-End technologies.</li>
         <li>🌱 Learning new tools and frameworks like React and Vue.js.</li>
         <li>♾️ Aiming to become a Senior Front-End Developer.</li>
