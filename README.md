@@ -43,13 +43,6 @@
 </div>
 
 <br>
-
-<details>
-    <summary>💻 &nbsp;Top Projects</summary>
-    <br>
-
-</details>
-
 <details>
     <summary>🛠 &nbsp;Tech Stack</summary>
     <br>
