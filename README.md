@@ -18,7 +18,7 @@
     <ul>
         <li>🎓 Information Technology Institute</li>
         <li>✨ Focused on mastering Front-End technologies.</li>
-        <li>🌱 Learning new tools and frameworks like React and Vue.js.</li>
+        <li>🌱 Learning new tools and frameworks like Bootstrap and Tailwind CSS.</li>
         <li>♾️ Aiming to become a Senior Front-End Developer.</li>
     </ul>
 </div>
