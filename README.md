@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/ed223119-b138-4397-a0fb-9e26bab71bf9)
-
 <div align="center">
     <h1>
         <a href="https://git.io/typing-svg">
