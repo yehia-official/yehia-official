@@ -1,7 +1,8 @@
 <!-- ================= HEADER / BANNER ================= -->
-<div align="center">
-  <img src="https://i.ibb.co/NYM1G6x/github-banner.png" alt="Yehia Front-End Developer Banner" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Yehia%20Mohammed&reversal=true&descSize=18&strokeWidth=0&textBg=false&fontSize=36&animation=twinkling" alt="Yehia Mohammed Banner"/>
+</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -66,11 +67,13 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-official&show_icons=true&theme=tokyonight&hide_border=false" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-official&theme=tokyonight&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-official&layout=compact&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-official&show_icons=true&theme=tokyonight&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yehia-official&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-official&layout=compact&theme=tokyonight&hide_border=false" height="160" alt="Top Languages" />
 </div>
+
 
 ---
 
@@ -106,13 +109,13 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 
 ---
 
-## 🐍 GitHub Activity Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yehia-official/yehia-official/output/snake.svg" alt="Snake animation"/>
+  <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
 </div>
 
 ---
 
-<div align="center">
-  <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
-</div>
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=gradient&reversal=true&descSize=22&strokeWidth=0&textBg=false&fontSize=0&animation=twinkling&section=footer" alt="Footer" width="100%">
+</p>
