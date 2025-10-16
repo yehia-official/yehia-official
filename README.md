@@ -108,7 +108,7 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
   <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
 </div>
 
----
+
 
 <!-- Footer -->
 <p align="center">
