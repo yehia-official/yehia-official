@@ -1,72 +1,118 @@
+<!-- ================= HEADER / BANNER ================= -->
 <div align="center">
-    <h1>
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+There+%F0%9F%91%8B+!;I+am+Yehia+%F0%9F%98%84;I+am+a+Front+End+Developer+%F0%9F%92%BB" alt="Typing SVG" />
-        </a>
-    </h1>
-</div>
-
-<h3> 🤵 &nbsp;About Me: <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"></h3>
-<div>
-    <p>
-        Hi, I'm Yehia. <br>
-        A passionate Front-End Developer and <br>currently learning more about advanced web technologies.<br>
-        I specialize in HTML, CSS, JavaScript, and constantly improving my skills in web development and design.
-    </p>
-    <ul>
-        <li>🎓 Information Technology Institute</li>
-        <li>✨ Focused on mastering Front-End technologies.</li>
-        <li>🌱 Learning new tools and frameworks like Bootstrap and Tailwind CSS.</li>
-        <li>♾️ Aiming to become a Senior Front-End Developer.</li>
-    </ul>
+  <img src="https://i.ibb.co/NYM1G6x/github-banner.png" alt="Yehia Front-End Developer Banner" width="100%" />
 </div>
 
 <div align="center">
-    <h3> 📫 Get in Touch with Me 📫 </h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+There+👋;I'm+Yehia+😄;Front-End+Developer+💻;Web+Designer+🎨;Lifelong+Learner+🚀" alt="Typing SVG" />
+  </a>
 </div>
+
+---
+
+## 👨‍💻 About Me
+<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="300" alt="developer illustration"/>
+
+Hey there! I'm **Yehia**, a passionate **Front-End Developer** and creative **Web Designer** from **Egypt 🇪🇬**.  
+I love turning ideas into beautiful, responsive, and interactive web experiences.
+
+- 🎓 Studying at the **Information Technology Institute (ITI)**.  
+- 💻 Currently mastering **React**, **Tailwind CSS**, and **TypeScript**.  
+- 🎨 Focused on building clean, modern, and user-centered designs.  
+- 🚀 Dreaming of becoming a **Full-Stack Developer** soon.  
+- 💬 Ask me about anything related to **Front-End Development** or **UI Design**.  
+
+---
+
+## 🧠 What I Do
+
+| Area | Description |
+|------|--------------|
+| 💻 **Frontend Development** | Building responsive websites using HTML, CSS, JS, React, and Tailwind. |
+| 🎨 **Web Design** | Crafting beautiful UI/UX with attention to every pixel. |
+| ⚙️ **Performance Optimization** | Making websites faster, smoother, and SEO-friendly. |
+| 🧩 **Open Source** | I love contributing to open projects and learning from the community. |
+| 📚 **Continuous Learning** | Always exploring new technologies and frameworks. |
+
+---
+
+## 🛠 Tech Stack
+<div align="center">
+  
+### 💻 **Languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,python" />
+
+### 🎨 **Frontend Frameworks**
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+
+### 🧰 **Tools & Platforms**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,netlify,vercel" />
+
+### 🗄️ **Databases (Learning Stage)**
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</div>
+
+---
+
+## 🚀 Highlight Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| 🧾 **Portfolio Website** | My personal portfolio showcasing my projects and skills. | HTML, CSS, JS |
+| 🎓 **Student Management System** | A web app for managing students and grades. | PHP, MySQL |
+| 🌍 **Language Learning Platform** | Interactive website for learning languages with AI support. | React, Firebase |
+| ⚙️ **Mini Tools Collection** | Small front-end utilities & experiments. | Vanilla JS |
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yehia-official&show_icons=true&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yehia-official&theme=tokyonight&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-official&layout=compact&theme=tokyonight&hide_border=false" height="160" />
+</div>
+
+---
+
+## 🌟 My Goals for 2025
+- ✅ Become a **Full-Stack Developer** (MERN Stack).  
+- ✅ Build and deploy 10+ real-world projects.  
+- ✅ Contribute to open-source projects.  
+- ✅ Create a **YouTube channel** to teach Front-End.  
+- ✅ Work remotely on international projects 🌍.  
+
+---
+
+## 💬 Fun Facts
+- 🧃 I’m most productive after a cup of mango juice 😅.  
+- 🎧 I love listening to **lo-fi music** while coding.  
+- 🎮 I relax by playing **story-based video games**.  
+- 🐍 My GitHub is alive… literally! (see below 👇)
+
+---
+
+## 📫 Connect with Me
+<div align="center">
+  <a href="mailto:yahiamohammedyup@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yehia-mohammed-1518a1222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Yahia.M.Hussain?locale=ar_AR">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🐍 GitHub Activity Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yehia-official/yehia-official/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
 
 <div align="center">
-    <a href="mailto:yahiamohammedyup@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail logo" />
-    </a>
-    <a href="[https://www.facebook.com/yehia](https://www.facebook.com/Yahia.M.Hussain?locale=ar_AR)">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook logo" />
-    </a>
-    <a href="[https://www.linkedin.com/in/yehia](https://www.linkedin.com/in/yehia-mohammed-1518a1222/)">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo" />
-    </a>
+  <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
 </div>
-
-<br>
-<details>
-    <summary>🛠 &nbsp;Tech Stack</summary>
-    <br>
- <!-- HTML -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-<!-- CSS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-<!-- JavaScript -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-<!-- Bootstrap -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-<!-- C++ -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-<!--  git/github -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-<!-- Node.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-<!-- Express.js -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
-<!-- Django -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-<!-- MySQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-<!-- PostgreSQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-<!-- MongoDB -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
-<!-- Redis -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
-
