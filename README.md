@@ -1,11 +1,4 @@
 <!-- ================= HEADER / BANNER ================= -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0d433581-aae0-4d4d-8100-eca3cd3ca398" 
-       alt="Yehia Mohammed Banner" 
-       width="100%" />
-</p>
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=Hi+There+👋;I'm+Yehia+😄;Front-End+Developer+💻;Web+Designer+🎨;Lifelong+Learner+🚀" alt="Typing SVG" />
