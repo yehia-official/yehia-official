@@ -13,7 +13,7 @@
 Hey there! I'm **Yehia**, a passionate **Front-End Developer** and creative **Web Designer** from **Egypt 🇪🇬**.  
 I love turning ideas into beautiful, responsive, and interactive web experiences.
 
-- 🎓 Studying at the **Information Technology Institute (ITI)**.  
+- 🎓 Studying at the **Business Information Systems (BIS)**.  
 - 💻 Currently mastering **React**, **Tailwind CSS**, and **TypeScript**.  
 - 🎨 Focused on building clean, modern, and user-centered designs.  
 - 🚀 Dreaming of becoming a **Full-Stack Developer** soon.  
