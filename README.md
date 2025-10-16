@@ -1,6 +1,8 @@
 <!-- ================= HEADER / BANNER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Yehia%20Mohammed&reversal=true&descSize=18&strokeWidth=0&textBg=false&fontSize=36&animation=twinkling" alt="Yehia Mohammed Banner"/>
+  <img src="https://github.com/user-attachments/assets/0d433581-aae0-4d4d-8100-eca3cd3ca398" 
+       alt="Yehia Mohammed Banner" 
+       width="100%" />
 </p>
 
 
