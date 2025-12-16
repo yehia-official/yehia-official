@@ -70,24 +70,6 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 </div>
 
 
----
-
-## 🌟 My Goals for 2025
-- ✅ Become a **Full-Stack Developer** (MERN Stack).  
-- ✅ Build and deploy 10+ real-world projects.  
-- ✅ Contribute to open-source projects.  
-- ✅ Create a **YouTube channel** to teach Front-End.  
-- ✅ Work remotely on international projects 🌍.  
-
----
-
-## 💬 Fun Facts
-- 🧃 I’m most productive after a cup of mango juice 😅.  
-- 🎧 I love listening to **lo-fi music** while coding.  
-- 🎮 I relax by playing **story-based video games**.  
-- 🐍 My GitHub is alive… literally! (see below 👇)
-
----
 
 ## 📫 Connect with Me
 <div align="center">
