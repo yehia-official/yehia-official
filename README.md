@@ -51,16 +51,6 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 
 ---
 
-## 🚀 Highlight Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧾 **Portfolio Website** | My personal portfolio showcasing my projects and skills. | HTML, CSS, JS |
-| 🎓 **Student Management System** | A web app for managing students and grades. | PHP, MySQL |
-| 🌍 **Language Learning Platform** | Interactive website for learning languages with AI support. | React, Firebase |
-| ⚙️ **Mini Tools Collection** | Small front-end utilities & experiments. | Vanilla JS |
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
