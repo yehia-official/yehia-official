@@ -42,9 +42,6 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 ### 🎨 **Frontend Frameworks**
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
-### 🧰 **Tools & Platforms**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,netlify,vercel" />
-
 ### 🗄️ **Databases (Learning Stage)**
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </div>
@@ -79,10 +76,3 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 <div align="center">
   <h3>⭐ If you like my work, consider giving a star to my repositories! ⭐</h3>
 </div>
-
-
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=250&color=gradient&reversal=true&descSize=22&strokeWidth=0&textBg=false&fontSize=0&animation=twinkling&section=footer" alt="Footer" width="100%">
-</p>
