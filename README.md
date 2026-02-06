@@ -48,15 +48,6 @@ I love turning ideas into beautiful, responsive, and interactive web experiences
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yehia-official&show_icons=true&theme=tokyonight&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yehia-official&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yehia-official&layout=compact&theme=tokyonight&hide_border=false" height="160" alt="Top Languages" />
-</div>
-
-
 
 ## 📫 Connect with Me
 <div align="center">
