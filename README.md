@@ -46,7 +46,7 @@ fun_fact: "Left hospitality → building in tech, full send 🚀"
 ### 🎯 What I'm Doing
 - 🚀 Co-founding **Spark AI Bootcamp** — teaching AI to Arabic-speaking students, build-first style
 - 💻 Vice Frontend @ **GDGC Al-Azhar**
-- 🎓 Final-year **Business Information Systems** student
+- 🎓 Graduate **Business Information Systems** student
 - ✍️ Producing Arabic-language technical content that actually gets used, not just read
 
 </td>
