@@ -1,0 +1,47 @@
+name: Generate Snake Animation
+
+# Regenerates the animated "snake" that eats through your contribution
+# graph. Runs once a day and also whenever you push to main.
+#
+# Requirements:
+#   - This workflow must live in a repo named exactly like your
+#     GitHub username (your profile repo).
+#   - No extra secrets are required; GITHUB_TOKEN is provided
+#     automatically by GitHub Actions.
+#
+# Reference: https://github.com/Platane/snk
+
+on:
+  schedule:
+    - cron: "0 0 * * *"       # once every day at midnight UTC
+  workflow_dispatch: {}        # allows manual runs from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate contribution snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Upload snake artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: github-contribution-grid-snake.svg
+          path: dist/github-contribution-grid-snake.svg
+
+      - name: Publish to the "output" branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist

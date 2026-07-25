@@ -1,0 +1,54 @@
+name: Generate Metrics Dashboard
+
+# Builds the all-in-one metrics.svg used in the "Full Metrics Dashboard"
+# section of README.md.
+#
+# Requirements:
+#   - A Personal Access Token stored as a repository secret named
+#     METRICS_TOKEN, with scopes: repo, read:user.
+#     Create one at: https://github.com/settings/tokens
+#     Add it at: Settings -> Secrets and variables -> Actions
+#   - This workflow must live in your profile repo (named exactly
+#     like your GitHub username).
+#
+# Reference: https://github.com/lowlighter/metrics
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 0 * * *"       # once every day at midnight UTC
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Modules to include in the dashboard. Add/remove as needed.
+          base: header, activity, community, repositories, metadata
+
+          # Visual options
+          config_timezone: Africa/Cairo
+          config_display: large
+
+          # Plugins (optional — remove any you don't want)
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_limit: 8
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_stars: yes
+          plugin_stars_limit: 4

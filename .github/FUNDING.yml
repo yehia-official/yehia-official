@@ -1,0 +1,15 @@
+# These are supported funding model platforms.
+# Uncomment and fill in only the ones that actually apply to you.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: # yehia-official
+patreon: # TODO
+open_collective: # TODO
+ko_fi: # TODO
+tidelift: # TODO
+community_bridge: # TODO
+liberapay: # TODO
+issuehunt: # TODO
+otechie: # TODO
+lfx_crowdfunding: # TODO
+custom: # ["https://www.buymeacoffee.com/yehia-official"]

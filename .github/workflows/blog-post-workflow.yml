@@ -1,0 +1,43 @@
+name: Latest Blog Post Workflow
+
+# Fetches your latest articles from an RSS feed (Dev.to, Hashnode,
+# Medium, or any other RSS source) and writes them between the
+# BLOG-POST-LIST markers in README.md.
+#
+# Requirements:
+#   - README.md must contain these two lines:
+#       <!-- BLOG-POST-LIST:START -->
+#       <!-- BLOG-POST-LIST:END -->
+#   - Update the "feed_list" value below to your real RSS feed.
+#
+# Reference: https://github.com/gautamkrishnar/blog-post-workflow
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"    # every 12 hours
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Pull latest posts and update README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # TODO: replace with your real RSS feed URL, e.g.:
+          #   Dev.to    -> https://dev.to/feed/yehia-official
+          #   Hashnode  -> https://your-blog.hashnode.dev/rss.xml
+          #   Medium    -> https://medium.com/feed/@yehia-official
+          feed_list: "https://dev.to/feed/yehia-official"
+          max_post_count: 5
+          date_format: "MMM DD, YYYY"
