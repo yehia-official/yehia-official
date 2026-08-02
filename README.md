@@ -1,11 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/user-attachments/assets/d8397c20-b81a-4d9f-bb05-0b31d56de0c4">
-  <img src="https://github.com/user-attachments/assets/00ec1241-735a-497f-861e-df8ad6d62d83" alt="Geno Demo" width="100%" />
-</a>
-
-### <p><strong>🎥 Click the image to watch the demo</strong></p>
-
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d8397c20-b81a-4d9f-bb05-0b31d56de0c4">
+    <img
+      src="https://github.com/user-attachments/assets/c4f92d42-66c6-4a91-9124-30902b151ca5"
+      alt="Geno Demo"
+      width="100%"
+      style="border-radius:16px;"
+    />
+  </a>
+</p>
 <br/>
 
 <a href="https://git.io/typing-svg">  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Building+with+React+%2B+Next.js+%2B+TypeScript;Teaching+AI+in+Arabic+%F0%9F%87%AA%F0%9F%87%AC;Co-Founder+%40+Spark+AI+Bootcamp;%D8%A7%D8%B3%D8%AA%D9%85%D8%AA%D8%B9+%D8%A8%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9+%F0%9F%9A%80" alt="Typing SVG" /></a>
