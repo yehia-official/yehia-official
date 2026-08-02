@@ -4,7 +4,7 @@
   <img src="https://github.com/user-attachments/assets/00ec1241-735a-497f-861e-df8ad6d62d83" alt="Geno Demo" width="100%" />
 </a>
 
-<p><strong>🎥 Click the image to watch the demo</strong></p>
+### <p><strong>🎥 Click the image to watch the demo</strong></p>
 
 <br/>
 
