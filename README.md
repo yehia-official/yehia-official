@@ -1,4 +1,8 @@
 <div align="center">
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/d8397c20-b81a-4d9f-bb05-0b31d56de0c4" autoplay muted loop playsinline width="100%"></video>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Yehia%20Mohammed&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20AI%20Educator%20%7C%20Founder&descAlignY=58&descSize=20" width="100%"/>
 
@@ -25,10 +29,6 @@
 <!-- TODO: add resume/CV link -->
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=yehia-official&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS"/>
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-FF00E5?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/yehia-official)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/yehia-official)
 <!-- TODO: confirm Sponsors/Buy Me a Coffee accounts exist at these handles, or remove -->
 
 </div>
